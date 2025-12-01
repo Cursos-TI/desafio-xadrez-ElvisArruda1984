@@ -60,7 +60,7 @@ int main() {
     
     // Digitar o primeiro movimento: duas casas para "BAIXO"
 
-    for(int i = 1; i <= 2; i++) { 
+    for(int i = 1; i <= 2; i++) { // aqui eu apenas repeti as variáveis, eu apenas mudei os valores!
         printf("Baixo\n");
     // Digitar a variável que define a comparação 
     while(i == 2) { 
